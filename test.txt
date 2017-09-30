@@ -13,6 +13,8 @@ Second test about conflicts, the first one has not been 100% successful.
 Once again changes made by Tortoise.
 Hope this test will be successful now.
 
+Once again testing conflicts.
+
 Obviously there should be more lines in order to test conflicts.
 Tortoise …
 Tortoise …
@@ -46,6 +48,3 @@ Tortoise …
 
 
 Hope these lines are enough for the test.
-
-
-
